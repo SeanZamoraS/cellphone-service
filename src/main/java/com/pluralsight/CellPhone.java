@@ -10,7 +10,7 @@ public class CellPhone
 
     public CellPhone() //constructor
     {
-        serialNumber = 00000000;
+        serialNumber = 0;
         model = " ";
         carrier = " ";
         phoneNumber = "000-000-0000";
